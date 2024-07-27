@@ -9,7 +9,7 @@
 
     <modules>
         <module>gcp-cf-micronaut</module>
-        <module>gcp-cf-springboot</module>
+        <module>gcp-cf-spring</module>
         <module>gcp-cf-quarkus</module>
     </modules>
 
