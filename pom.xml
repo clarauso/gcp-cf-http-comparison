@@ -11,6 +11,7 @@
         <module>gcp-cf-micronaut</module>
         <module>gcp-cf-spring</module>
         <module>gcp-cf-quarkus</module>
+        <module>gcp-cf-quarkus-funqy</module>
     </modules>
 
     <properties>
